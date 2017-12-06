@@ -49,6 +49,12 @@ html, body {
     border: solid #3a6168;
     padding: 10px 20px;
     border-radius: 9px;
+    transition: all 0.3s;
+}
+
+.btn:hover {
+    color: #cbdfd6;
+    border: 2px solid #cbdfd6;
 }
 
 
