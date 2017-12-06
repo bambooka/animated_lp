@@ -84,7 +84,16 @@ p {
     }
 }
 @media screen and (max-width: 768px) {
-
+    .content {
+        padding-bottom: 48%;
+    }
+    .content h1 {
+        font-size: 300%;
+    }
+    .btn {
+        font-size: 110%;
+        padding: 9px 17px;
+    }
 }
 @media screen and (max-width: 480px) {
 	
