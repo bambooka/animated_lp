@@ -72,7 +72,16 @@ p {
 
 /*--- Media Queries --*/
 @media screen and (max-width: 900px) {
-
+    .content {
+        padding-bottom: 30%;
+    }
+    .content h1 {
+        font-size: 450%;
+    }
+    .btn {
+        font-size: 110%;
+        padding: 0px 17px;
+    }
 }
 @media screen and (max-width: 768px) {
 
