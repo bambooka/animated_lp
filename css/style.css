@@ -22,6 +22,14 @@ html, body {
     display: table-cell;
     vertical-align: middle;
     width: 100%;
+    max-width: none;
+}
+
+.content {
+    max-width: 600px;
+    margin: 0 auto;
+    text-align: center;
+    padding-bottom: 28%;
 }
 
 /*--- Media Queries --*/
