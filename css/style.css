@@ -63,13 +63,6 @@ p {
     font-family: sans-serif;
 }
 
-
-
-
-
-
-
-
 /*--- Media Queries --*/
 @media screen and (max-width: 900px) {
     .content {
