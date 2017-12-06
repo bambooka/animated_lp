@@ -13,9 +13,16 @@ html, body {
     width: 100%;
     margin: auto;
     background: url(/img/bg.jpg);
+    top: 0;
+    display: table;
     background-size: contain;
 }
 
+.intro .inner {
+    display: table-cell;
+    vertical-align: middle;
+    width: 100%;
+}
 
 /*--- Media Queries --*/
 @media screen and (max-width: 900px) {
