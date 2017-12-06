@@ -8,7 +8,13 @@ html, body {
     width: 100%;
 }
 
-
+.intro {
+    height: 100%;
+    width: 100%;
+    margin: auto;
+    background: url(/img/bg.jpg);
+    background-size: contain;
+}
 
 
 /*--- Media Queries --*/
