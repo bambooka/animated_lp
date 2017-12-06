@@ -94,7 +94,24 @@ p {
         font-size: 110%;
         padding: 9px 17px;
     }
+    p {
+        font-size: 120%;
+        line-height: 100%;
+    }
 }
 @media screen and (max-width: 480px) {
-	
+    .content {
+        padding-bottom: 58%;
+    }
+    .content h1 {
+        font-size: 250%;
+    }
+    .btn {
+        font-size: 100%;
+        padding: 9px 14px;
+    }
+    p {
+        font-size: 100%;
+        line-height: 100%;
+    }
 }
