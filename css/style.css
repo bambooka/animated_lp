@@ -40,6 +40,25 @@ html, body {
     line-height: 78%;
 }
 
+.btn {
+    font-family: 'Montserrat', sans-serif;
+    font-weight: 400;
+    color: #3a6168;
+    text-decoration: none;
+    text-transform: uppercase;
+    border: solid #3a6168;
+    padding: 10px 20px;
+    border-radius: 9px;
+}
+
+
+
+
+
+
+
+
+
 /*--- Media Queries --*/
 @media screen and (max-width: 900px) {
 
