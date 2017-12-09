@@ -15,7 +15,7 @@ html, body {
     background: url(/img/bg.jpg) no-repeat 50% 50%;
     top: 0;
     display: table;
-    background-size: contain;
+    background-size: cover;
 }
 
 .intro .inner {
@@ -29,7 +29,7 @@ html, body {
     max-width: 600px;
     margin: 0 auto;
     text-align: center;
-    padding-bottom: 28%;
+    padding-bottom: 10%;
 }
 
 .content h1 {
@@ -43,13 +43,13 @@ html, body {
 .btn {
     font-family: 'Montserrat', sans-serif;
     font-weight: 400;
-    color: #3a6168;
+    color: aliceblue;
     text-decoration: none;
     text-transform: uppercase;
     border: solid #3a6168;
     padding: 10px 20px;
     border-radius: 9px;
-    transition: all 0.3s;
+    transition:  0.8s;
 }
 
 .btn:hover {
